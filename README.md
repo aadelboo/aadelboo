@@ -22,8 +22,9 @@ I'm currently spending my time on personal projects that I've been working on fo
 
 </br>
 
-Github Stats :chart:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadelboo&show_icons=true&locale=en&layout=compact" alt="aadelboo" /></p>
+**Github Stats :chart:**
+</br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadelboo&show_icons=true&locale=en" alt="aadelboo" /></p>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aadelboo&show_icons=true&locale=en&layout=compact" alt="aadelboo" /></a><a>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aadelboo&layout=compact&theme=buefy&show_icons=true&locale=en" alt="aadelboo" /></a>
+
 
