@@ -8,12 +8,17 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aadelboo&label=Profile%20views&color=0e75b6&style=flat" alt="aadelboo" /> </p>
 
-I recently finished a full stack developer training at the Wagon. :v:
+After more than ten years in sales, in 2019 I accepted my first digital challenge which propelled me into the tech world. I am now considering a transition to freelancing in IT. Although my career in sales has been successful, I have found that the aspects of my job that I find most rewarding are in IT development roles. I recently completed a full stack developer training course at the Wagon.:v:
 
-I'm currently spending my time on personal projects that I've been working on for a while. :thought_balloon: Stay tuned, the next part is coming on my social networks and it's really cool to see. </br> I'm still learning with the aim of becoming a JavaScript master. I'm looking to work remotely as well as freelance. :rocket: If you have a project, want to create a website or if you want to improve your current website, contact me, I will be happy to discuss it with you. :coffee:
+Today, it is as a freelancer that I am starting a new adventure! I'm dedicating my time to some personal projects I've been thinking about for a while.:thought_balloon:
 
+**:rotating_light: Stay tuned, something big is coming and it's really cool to see. :rotating_light:**
 
-📫 You can also send me an email :point_right: **abouzambou@gmail.com**
+I'm still learning with the goal of becoming a JavaScript master. What best defines me today is the life of a digital nomad. Working remotely suits me perfectly. 
+Contact me, if you have a project where you are looking to interact with customers online or create a new customer experience via digital channels. i will be happy to discuss it with you.:coffee: 
+
+Feel free to connect via Social Networks or contact me directly at **abouzambou@gmail.com** :email:
+
 
 </br>
 
