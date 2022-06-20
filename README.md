@@ -8,16 +8,11 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aadelboo&label=Profile%20views&color=0e75b6&style=flat" alt="aadelboo" /> </p>
 
-After more than ten years in sales, in 2019 I accepted my first digital challenge which propelled me into the tech world. I am now considering a transition to freelancing in IT. Although my career in sales has been successful, I have found that the aspects of my job that I find most rewarding are in IT development roles. I recently completed a full stack developer training course at the Wagon.:v:
+I worked as a consultant in the automotive and banking industry for a few years before I discovered how digital technology could improve or even change our daily lives. Since then, I've become passionate about digital banking innovation 👨‍💻 and information technology in the broadest sense of the term.   
 
-Today, it is as a freelancer that I am starting a new adventure! I'm dedicating my time to some personal projects I've been thinking about for a while.:thought_balloon:
+After my training as a full stack developer at the Wagon, I decided to start as a freelancer! I use these new skills to coach 🏋️‍♂️ clients in their digital transformation. My commercial experience becomes a major asset for them or when I have to collaborate with different business entities. 
 
-**:rotating_light: Stay tuned, something big is coming and it's really cool to see. :rotating_light:**
-
-I'm still learning with the goal of becoming a JavaScript master. What best defines me today is the life of a digital nomad. Working remotely suits me perfectly. 
-Contact me, if you have a project where you are looking to interact with customers online or create a new customer experience via digital channels. i will be happy to discuss it with you.:coffee: 
-
-Feel free to connect via Social Networks or contact me directly at **abouzambou@gmail.com** :email:
+**:rotating_light:** One of my biggest project is currently in progress. I will give you more details very soon until then, if you have a project and want to talk about it... I'll be happy to have a chat with you.:coffee:
 
 
 </br>
