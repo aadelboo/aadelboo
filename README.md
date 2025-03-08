@@ -27,8 +27,9 @@ My professional background includes digital transformation coaching, customer re
 - Web Development (Ruby on Rails, Ruby)
 
 ### I'm actively looking for internship and junior roles in:
-- Data Analysis
-- Business Intelligence
-- Business Analysis
+  - Data Analysis
+  - Business Intelligence
+  - Business Analysis
 
 Feel free to connect!
+[Linkedin](https://www.linkedin.com/in/aadelbouzambou)
